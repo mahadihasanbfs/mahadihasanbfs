@@ -40,7 +40,7 @@ I'm a passionate Fullstack Developer with a keen interest in building robust and
 
 Feel free to reach out to me for collaboration, projects, or just a friendly chat:
   <p align="center">
-    <a href="mailto:ceo@brightfuturesoft.com">
+    <a href="mailto:mahadihasan.bfs@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
     <a href="https://www.linkedin.com/in/codewithmahadihasan">
